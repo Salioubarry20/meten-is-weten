@@ -9,5 +9,11 @@ if a > b:
     print ('a is het grootste getal: ' ,max)
 elif a < b:
     print('a is het kleinste getal" ' , min)
-
- 
+    max = a
+else: 
+    max = b
+if a < b:
+    min = a
+else: 
+    print('a en b zijn even groot')  
+    min = b  
