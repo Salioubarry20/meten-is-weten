@@ -1,6 +1,5 @@
 a = int(input('vul het getal hier voor A: '))
 b = int(input('vul het getal hier voor B: '))
-print(type(a))
 
 max = a
 min = a
@@ -17,3 +16,7 @@ if a < b:
 else: 
     print('a en b zijn even groot')  
     min = b  
+
+print("Het minimum is:" ,min)  
+print("Het maximum is:" ,max)  
+
