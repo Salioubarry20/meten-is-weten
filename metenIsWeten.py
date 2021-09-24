@@ -18,5 +18,4 @@ else:
     min = b  
 
 print("Het minimum is:" ,min)  
-print("Het maximum is:" ,max)  
-
+print("Het maximum is:" ,max) 
