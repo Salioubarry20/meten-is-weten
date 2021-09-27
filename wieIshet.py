@@ -25,7 +25,7 @@ else:
             print('Fourme d Abert')     
     
     else:
-        Question6 = input('Heeft de kaas een korst??: ')
+        Question6 = input('Heeft de kaas een korst?: ')
         if  Question6 == "yes":
             print('Camembert')
         else:    
