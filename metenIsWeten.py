@@ -4,7 +4,7 @@ b = int(input('vul het getal hier voor B: '))
 if a > b:
     max = a
     min = b 
-    print ('a is het grootste getal: ' + str(max))
+    print ('a is het grootste getal ' + str(max))
 elif a < b:
     min = a
     print('a is het kleinste getal ' , min)
