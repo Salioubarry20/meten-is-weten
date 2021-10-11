@@ -17,8 +17,16 @@ else:
     print('U kunt altijd terug komen als u er klaar voor bent. ')      
 
 if vraag1 == 2009 and vraag2 == 460 and vraag3 == 1995 and vraag4 == 2006 and vraag5 == 2004 and vraag6 == 'Nederland' and vraag7 == 'Los Altos' and vraag8 == 28 and vraag9 == 1904 and vraag10 == 7:
-    if vraag == 90% True:    
+    if 90% True:    
         print('Gefeliciteerd, U hebt de Iphone 13 GEWONNEN ')
+    if 80% True:
+        print('Gefeliciteerd, U hebt de PS5 GEWONNEN ')    
+    if 70% True:
+        print('Gefeliciteerd, U hebt een Lenovo laptop GEWONNEN ')
+    if 60% True:
+        print('Gefeliciteerd, U hebt een fiets GEWONNEN ')          
+    if  50% True:
+        print('Gefeliciteerd, U hebt de FIFA 22 GEWONNEN ')     
     
 else:
     print('Helaas waren er geen genoeg antwoorden goed. ')   
