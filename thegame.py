@@ -1,5 +1,5 @@
 print('Hallo, we gaan een spel spelen waardoor je gratis een Iphone 13, een PS5, een Lenovo laptop, een fiets of een FIFA 22 kan winnen :)')
-print('Als je minder dan 50% van alle vragen fout hebt dan win je niks. ')
+print('Als je minder dan 60% van alle vragen fout hebt dan win je niks. ')
 score = 0
 
 vraag = int(input('1- In welke jaar kwam de eerste Iphone uit?: '))
