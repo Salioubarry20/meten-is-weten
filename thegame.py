@@ -33,7 +33,7 @@ vraag = int(input('10- Hoeveel Europese landen hebben FIFA opgericht?: '))
 if vraag == 7:
     score += 10
 
-if score == 100:   
+if score >= 100:
     print('Gefeliciteerd, U hebt de Iphone 13 GEWONNEN ')
 elif score == 90:
     print('Gefeliciteerd, U hebt de PS5 GEWONNEN ')    
@@ -43,6 +43,6 @@ elif score == 70:
     print('Gefeliciteerd, U hebt een fiets GEWONNEN ')          
 elif score == 60:
     print('Gefeliciteerd, U hebt de FIFA 22 GEWONNEN ')  
-else:
-    print('Helaas waren er geen genoeg antwoorden goed. ')    
-    
+else: 
+    score != 59 or score < 59
+    print('Helaas waren er geen genoeg antwoorden goed. ')
