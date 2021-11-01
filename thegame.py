@@ -45,4 +45,4 @@ elif score == 60:
     print('Gefeliciteerd, U hebt de FIFA 22 GEWONNEN ')  
 else: 
     score != 59 or score < 59
-    print('Helaas waren er geen genoeg antwoorden goed. ')
+    print('Helaas waren er geen genoeg antwoorden goed. ') 
